@@ -38,7 +38,7 @@ function newQuote() {
     }
     // Set Quote, Hide Loader
     quoteText.textContent = quote.text;
-    complete()
+    complete();
 }
 
 // Get Quotes From API
